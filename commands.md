@@ -1,0 +1,1 @@
+kind create cluster --name meucluster --config kind-config.yml
